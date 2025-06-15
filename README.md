@@ -1,2 +1,2 @@
-# Boostrap_Project
-The first Boostrap Project.
+# Bootstrap_Project
+The first Bootstrap Project.
